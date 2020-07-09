@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt tiger](https://storage.googleapis.com/andrewwalpole/website/test2.svg)
+![Alt tiger](https://storage.googleapis.com/andrewwalpole/website/test3.svg)
 
 <!--
 **walpolea/walpolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
