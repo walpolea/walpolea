@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<div class="container" style="display: grid;grid-gap: 10px;grid-template-columns: repeat( 4, 1fr);">
-  <div style="height: 50px;background: red;"></div>
-  <div style="height: 50px;background: red;"></div>
-  <div style="height: 50px;background: red;"></div>
-  <div style="height: 50px;background: red;"></div>
-</div>
+![Alt tiger](https://storage.googleapis.com/andrewwalpole/website/test2.svg)
 
 <!--
 **walpolea/walpolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
