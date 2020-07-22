@@ -83,12 +83,9 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>Hello, I'm Andrew</h1>
+				<img src="https://storage.googleapis.com/andrewwalpole/website/test3.svg" width=500>
 			</div>
 		</div>
-		<script>
-			alert("hi");
-		</script>
 	</foreignObject>
 </svg>
