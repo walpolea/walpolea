@@ -87,5 +87,8 @@
 				<p>Click to see the source</p>
 			</div>
 		</div>
+		<script>
+			alert("hi");
+		</script>
 	</foreignObject>
 </svg>
