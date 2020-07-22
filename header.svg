@@ -84,7 +84,7 @@
 			</style>
 			<div class="container">
 				<h1>Hello, I'm Andrew</h1>
-				<img src="https://storage.googleapis.com/andrewwalpole/website/test3.svg" width=500>
+				<img src="https://storage.googleapis.com/andrewwalpole/website/test3.svg" width="500" />
 			</div>
 		</div>
 	</foreignObject>
