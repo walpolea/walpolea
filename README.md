@@ -8,3 +8,5 @@ In my technical tenure, I’ve architected and built performant web applications
 HTML, CSS, JavaScript, Vue, React, Wordpress, PHP, Nuxt, Next.js, Eleventy, Node.js, NoSQL, are a few examples of tech I have a current expertise in.
 
 I lead through setting clear expectations and establishing trust through transparent and honest bi-directional feedback. I partner with adjacent teams to best serve the business and its overall goals.
+
+Check out my work on [Codepen](https://codepen.io/walpolea/)
